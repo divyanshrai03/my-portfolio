@@ -98,7 +98,7 @@ export const navLinks = [
       desc: 'A modern portfolio showcasing my expertise as a web developer with 2 years of experience. It highlights my technical projects, skills, and services in a clean and engaging manner.',
       subdesc:
         'Built with React.js, Tailwind CSS, and Next.js, this portfolio offers seamless navigation, animations, and is optimized for both desktop and mobile users.',
-      href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      href: 'https://github.com/divyanshrai03/portfolio',
       texture: '/textures/project/project2.mp4',
       logo: '/assets/project-logo2.png',
       logoStyle: {
@@ -130,7 +130,7 @@ export const navLinks = [
       desc: 'TechStore is an e-commerce platform that allows users to browse, compare, and purchase the latest tech gadgets. It features dynamic product displays, user reviews, and a secure checkout system.',
       subdesc:
         'TechStore leverages Next.js, Tailwind CSS, and TypeScript for optimal performance. It integrates Stripe for payments and supports product filtering and recommendations.',
-      href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      href: 'https://github.com/divyanshrai03/ONDC_website',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
@@ -169,7 +169,7 @@ export const navLinks = [
       desc: 'A real-time chat app that allows users to send and receive messages instantly. It supports group chats, private messaging, and real-time notifications for a seamless communication experience.',
       subdesc:
         'Built with React.js, Tailwind CSS, and Firebase for real-time data synchronization, it ensures smooth and fast communication with message history and notifications.',
-      href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      href: 'https://github.com/divyanshrai03/ChitChat',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
       logoStyle: {
@@ -206,7 +206,7 @@ export const navLinks = [
       desc: 'An anonymous real-time messaging app that allows users to send and receive anonymous messages instantly. Focused on privacy, the app ensures user anonymity and secure communication.',
       subdesc:
         'This app is built with Next.js, Tailwind CSS, and Firebase. It supports anonymous messaging, one-time message viewing, and privacy-focused interactions.',
-      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+      href: 'https://github.com/divyanshrai03/ama-app',
       texture: '/textures/project/project5.mp4',
       logo: '/assets/project-logo5.png',
       logoStyle: {
@@ -255,7 +255,7 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
       name: 'Bluestock Fintech',
       pos: 'SDE Intern',
       duration: 'August 2024 - September 2024',
-      title: "During my internship at Bluestock Fintech, I contributed to the development of scalable financial solutions, focusing on improving user experiences and streamlining backend services.",
+      title: "During my internship at Bluestock Fintech,I contributed to the development of scalable financial solutions, focusing on improving user experiences and streamlining backend services.",
       icon: '/assets/bluestock.png',
       animation: 'victory',
     },
