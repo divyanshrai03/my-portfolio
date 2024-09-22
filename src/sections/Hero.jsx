@@ -77,7 +77,7 @@ const sizes = calculateSizes(isSmall, isMobile, isTablet);
         <Canvas className="w-full h-full">
           <Suspense fallback={<CanvasLoader/>}>
             <PerspectiveCamera makeDefault position={[ 0, 0, 20]} />
-            <HeroCamera isMobile={isMobile}>
+            <HeroCamera>
               <HackerRoom 
               // scale={0.07}
               scale={sizes.deskScale}
